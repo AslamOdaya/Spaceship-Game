@@ -1,0 +1,54 @@
+﻿  Audio.cpp
+  Camera.cpp
+  CatmullRom.cpp
+CatmullRom.cpp(250): warning C4018: '<': signed/unsigned mismatch
+CatmullRom.cpp(275): warning C4018: '<': signed/unsigned mismatch
+CatmullRom.cpp(302): warning C4018: '<': signed/unsigned mismatch
+CatmullRom.cpp(333): warning C4018: '<': signed/unsigned mismatch
+CatmullRom.cpp(358): warning C4018: '<': signed/unsigned mismatch
+CatmullRom.cpp(384): warning C4018: '<': signed/unsigned mismatch
+CatmullRom.cpp(429): warning C4018: '<': signed/unsigned mismatch
+  Cube.cpp
+  Cubemap.cpp
+  FreeTypeFont.cpp
+  Game.cpp
+Game.cpp(232): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(241): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(249): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(257): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(270): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Game.cpp(353): warning C4305: 'argument': truncation from 'double' to 'float'
+Game.cpp(376): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(393): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(412): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(430): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(463): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Game.cpp(564): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Game.cpp(570): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Game.cpp(592): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+Game.cpp(604): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(624): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(645): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(663): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(679): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(695): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(699): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(703): warning C4018: '<': signed/unsigned mismatch
+  GameWindow.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+  Plane.cpp
+  Pyramid.cpp
+  Shaders.cpp
+  Skybox.cpp
+  Sphere.cpp
+  Texture.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
+  Generating code
+  1375 of 1381 functions (99.6%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLTemplate.vcxproj -> C:\Users\Aslam\OneDrive\Documents\Year 3\Computer Graphics\Computer Graphics Coursework\Template\Release\OpenGLTemplate.exe

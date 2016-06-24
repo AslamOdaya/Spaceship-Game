@@ -1,0 +1,24 @@
+# Blender3D MTL File: Rocket Fuel.blend
+# Material Count: 2
+newmtl Material.045_Can.png_Can.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.635000 0.635000 0.635000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Can.png
+
+
+newmtl Material.044_Lid.png_Lid.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.635000 0.635000 0.635000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Lid.png
+
+
